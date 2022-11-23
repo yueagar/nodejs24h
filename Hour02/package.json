@@ -1,0 +1,8 @@
+{
+    "name": "yuehour02",
+    "version": "1.0.0",
+    "description": "no bo",
+    "dependencies": {
+        "socket.io": "2.2.0"
+    }
+}
